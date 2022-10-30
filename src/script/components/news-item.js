@@ -37,7 +37,7 @@ class NewsItem extends HTMLElement {
 
                 img {
                     width: 100%;
-                    max-height: 200px;
+                    height: 200px;
                     object-position: center;
                     object-fit: cover;
                 }
