@@ -41,6 +41,7 @@ html::-webkit-scrollbar-thumb:hover {
 
 .app-bar img {
   width: 200px;
+  max-height: 70px;
 }
 
 main {
